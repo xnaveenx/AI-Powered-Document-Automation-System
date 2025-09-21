@@ -1,0 +1,4 @@
+Purchase Order #5682
+Items: Projectors
+Total Amount: $1,750
+Approved by Finance Dept.

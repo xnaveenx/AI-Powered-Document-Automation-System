@@ -1,0 +1,4 @@
+Medical Report: X-Ray
+Patient: Caleb Cooper
+Date: 29-Sep-2025
+Findings: Mild shoulder dislocation

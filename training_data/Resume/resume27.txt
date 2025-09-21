@@ -1,0 +1,4 @@
+Amelia Green
+Data Engineer
+Experience: DataWorks, Data Engineer, Jan 2021 – Aug 2025
+Skills: Python, Spark, SQL

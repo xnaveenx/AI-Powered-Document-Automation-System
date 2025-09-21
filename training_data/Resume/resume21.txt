@@ -1,0 +1,4 @@
+Isabella Allen
+Frontend Developer
+Experience: WebGenius, React Developer, Feb 2020 – Aug 2025
+Skills: React, Redux, CSS, HTML

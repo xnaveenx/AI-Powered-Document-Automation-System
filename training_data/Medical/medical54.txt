@@ -1,0 +1,3 @@
+Discharge Summary: Patient: Hunter Howard
+Condition: Appendectomy
+Treatment: Surgery performed, follow-up in 1 week

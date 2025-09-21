@@ -1,0 +1,4 @@
+Evelyn Carter
+Machine Learning Engineer
+Experience: AI Labs, ML Engineer, Feb 2022 – Aug 2025
+Skills: Python, scikit-learn, TensorFlow

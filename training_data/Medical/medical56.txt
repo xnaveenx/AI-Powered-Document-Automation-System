@@ -1,0 +1,5 @@
+Patient: Jack Peterson
+Date: 01-Oct-2025
+Prescribed Medications:
+- Metformin 500mg, 2x daily
+- Vitamin B12 1000mcg, 1x daily

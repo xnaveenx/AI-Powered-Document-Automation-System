@@ -1,0 +1,4 @@
+Medical Report: X-Ray
+Patient: David Lee
+Date: 21-Sep-2025
+Findings: Mild ankle sprain

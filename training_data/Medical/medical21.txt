@@ -1,0 +1,4 @@
+Patient: Isabella Allen
+Date: 24-Sep-2025
+Prescribed Medications:
+- Omeprazole 20mg, 1x daily before breakfast

@@ -1,0 +1,4 @@
+Purchase Order #5690
+Items: Office Chairs
+Total Amount: $950
+Approved by Finance Dept.

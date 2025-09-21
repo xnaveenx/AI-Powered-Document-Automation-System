@@ -1,0 +1,5 @@
+Invoice Number: 12354
+Date: 30-Sep-2025
+Amount: $480.00
+Paid To: Office Essentials
+Description: Office supplies

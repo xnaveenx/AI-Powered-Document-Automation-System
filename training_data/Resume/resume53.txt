@@ -1,0 +1,4 @@
+Sofia Richardson
+Machine Learning Engineer
+Experience: AI Labs, ML Engineer, Mar 2022 – Aug 2025
+Skills: Python, TensorFlow, scikit-learn

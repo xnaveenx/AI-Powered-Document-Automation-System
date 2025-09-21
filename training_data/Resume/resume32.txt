@@ -1,0 +1,4 @@
+Jackson Mitchell
+Software Engineer
+Experience: CodeWorks, Backend Developer, Mar 2020 – Aug 2025
+Skills: Node.js, Express, MongoDB

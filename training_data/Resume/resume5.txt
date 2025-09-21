@@ -1,0 +1,4 @@
+Robert Wilson
+Machine Learning Engineer
+Experience: AI Labs, Jan 2022 – Aug 2025
+Skills: Python, TensorFlow, scikit-learn

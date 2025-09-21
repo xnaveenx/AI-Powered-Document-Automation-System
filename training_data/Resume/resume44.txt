@@ -1,0 +1,4 @@
+Anthony Rogers
+Backend Developer
+Experience: DevMasters, Backend Developer, Mar 2019 – Aug 2025
+Skills: Java, Spring Boot, MySQL

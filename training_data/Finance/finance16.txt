@@ -1,0 +1,5 @@
+Invoice Number: 12347
+Date: 23-Sep-2025
+Amount: $2,300.00
+Paid To: Global Tech
+Description: Software licenses

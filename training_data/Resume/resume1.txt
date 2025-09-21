@@ -1,0 +1,5 @@
+John Doe
+Software Engineer
+Email: john.doe@example.com
+Experience: XYZ Tech, Backend Developer, Jan 2022 – Aug 2025
+Skills: Python, Node.js, SQL, Docker

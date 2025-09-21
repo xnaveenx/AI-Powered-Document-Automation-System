@@ -1,0 +1,4 @@
+Purchase Order #5686
+Items: Laptops
+Total Amount: $4,000
+Approved by Finance Dept.

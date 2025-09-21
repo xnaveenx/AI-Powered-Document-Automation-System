@@ -1,0 +1,3 @@
+Payment Receipt: $60.75 for water bill
+Customer ID: 7891
+Due Date: 26-Sep-2025

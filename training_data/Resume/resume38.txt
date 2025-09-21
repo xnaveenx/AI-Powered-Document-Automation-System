@@ -1,0 +1,4 @@
+Joseph Parker
+Full Stack Developer
+Experience: CodeCraft, Full Stack Developer, Mar 2020 – Aug 2025
+Skills: React, Node.js, MongoDB

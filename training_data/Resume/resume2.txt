@@ -1,0 +1,4 @@
+Jane Smith
+Data Analyst
+Experience: ABC Corp, Jan 2021 – Aug 2025
+Skills: Excel, SQL, PowerBI

@@ -1,0 +1,4 @@
+Patient: Alexander Scott
+Date: 25-Sep-2025
+Prescribed Medications:
+- Metoprolol 50mg, 2x daily

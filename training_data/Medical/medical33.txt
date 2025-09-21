@@ -1,0 +1,2 @@
+Prescription: Patient: Abigail Perez
+Medications: Ibuprofen 400mg, 1x every 8 hours for 5 days

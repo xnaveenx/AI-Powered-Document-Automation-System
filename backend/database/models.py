@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, Column, Integer, String, DateTime, JSON, ForeignKey, Float, Text
+from sqlalchemy import create_engine, Column, Integer, String, DateTime, JSON, ForeignKey, Float, Text, Boolean
 from sqlalchemy.orm import sessionmaker, relationship, declarative_base
 from datetime import datetime, timezone
 from backend.common.config import Settings
@@ -30,7 +30,7 @@ class Document(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     filename = Column(String, nullable=False)
-    file_hash=Column(String, unique=True , nullable=True)
+    file_hash = Column(String, unique=True, nullable=True)
     doc_metadata = Column(JSON)
     source = Column(String, nullable=False)
     sender = Column(String, nullable=True)
@@ -48,6 +48,7 @@ class Document(Base):
     classifications = relationship("Classification", back_populates="document", cascade="all, delete-orphan")
     routes = relationship("Route", back_populates="document", cascade="all, delete-orphan")
     embeddings = relationship("DocumentEmbedding", back_populates="document", cascade="all, delete-orphan")
+    routing_logs = relationship("RoutingLog", back_populates="document", cascade="all, delete-orphan")
 
 
 class Logs(Base):
@@ -90,6 +91,16 @@ class Classification(Base):
     document = relationship("Document", back_populates="classifications")
 
 
+class ClassificationRule(Base):
+    __tablename__ = "classification_rule"
+
+    id = Column(Integer, primary_key=True, index=True)
+    keyword = Column(String, nullable=False, unique=True)
+    category = Column(String, nullable=False)
+    created_by = Column(String, nullable=True)
+    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
+
+
 class Route(Base):
     __tablename__ = "routes"
 
@@ -113,6 +124,41 @@ class DocumentEmbedding(Base):
 
     document = relationship("Document", back_populates="embeddings")
 
+
+# ------------------- NEW MODELS FOR ROUTER -------------------
+
+class RoutingRule(Base):
+    __tablename__ = "routing_rules"
+
+    id = Column(Integer, primary_key=True, index=True)
+    doc_type = Column(String, nullable=False, index=True)       # E.g., "invoice", "resume"
+    destination_type = Column(String, nullable=False)           # "folder" | "s3" | "erp" | "db"
+    destination_value = Column(Text, nullable=False)            # path, s3://bucket/prefix, API url, table name
+    conditions = Column(JSON, nullable=True)                    # optional JSON (e.g., {"amount": {">": 10000}})
+    enabled = Column(Boolean, default=True)
+    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
+    updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc))
+
+
+class RoutingLog(Base):
+    __tablename__ = "routing_logs"
+
+    id = Column(Integer, primary_key=True, index=True)
+    document_id = Column(Integer, ForeignKey("documents.id", ondelete="CASCADE"), nullable=True)
+    rule_id = Column(Integer, ForeignKey("routing_rules.id", ondelete="SET NULL"), nullable=True)
+    file_name = Column(String, nullable=False)
+    file_path = Column(Text, nullable=True)
+    doc_type = Column(String, nullable=True)
+    destination = Column(Text, nullable=True)
+    status = Column(String, nullable=False)    # success | failed | retry | no_rule
+    message = Column(Text, nullable=True)
+    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
+
+    document = relationship("Document", back_populates="routing_logs")
+    rule = relationship("RoutingRule")
+
+
+# ------------------- INIT -------------------
 
 def init_db():
     Base.metadata.create_all(bind=engine)

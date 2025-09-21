@@ -1,0 +1,5 @@
+Invoice Number: 12349
+Date: 25-Sep-2025
+Amount: $1,250.00
+Paid To: Tech Supplies Inc.
+Description: Networking equipment

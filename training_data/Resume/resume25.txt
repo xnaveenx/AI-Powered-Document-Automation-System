@@ -1,0 +1,4 @@
+Charlotte Wright
+QA Engineer
+Experience: TestLab, QA Engineer, Feb 2021 – Aug 2025
+Skills: Selenium, Java, JUnit

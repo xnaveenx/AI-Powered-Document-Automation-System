@@ -1,0 +1,2 @@
+Prescription: Patient: Mia Hernandez
+Medications: Levothyroxine 50mcg, 1x daily

@@ -1,0 +1,3 @@
+Payment Receipt: $95.75 for electricity bill
+Customer ID: 7899
+Due Date: 04-Oct-2025

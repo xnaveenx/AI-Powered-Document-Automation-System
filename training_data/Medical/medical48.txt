@@ -1,0 +1,2 @@
+Prescription: Patient: Ryan Bell
+Medications: Amoxicillin 500mg, 3x daily for 7 days

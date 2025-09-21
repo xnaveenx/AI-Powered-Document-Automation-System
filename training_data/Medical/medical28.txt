@@ -1,0 +1,2 @@
+Prescription: Patient: Daniel Baker
+Medications: Albuterol Inhaler, 2 puffs as needed

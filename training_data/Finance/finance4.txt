@@ -1,0 +1,4 @@
+Purchase Order #5678
+Items: Laptop, Monitor
+Total Amount: $2,500
+Approved by Finance Dept.

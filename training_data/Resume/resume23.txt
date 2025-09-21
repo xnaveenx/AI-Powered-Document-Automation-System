@@ -1,0 +1,4 @@
+Mia Hernandez
+AI Engineer
+Experience: NeuralTech, AI Engineer, Mar 2022 – Aug 2025
+Skills: Python, TensorFlow, PyTorch

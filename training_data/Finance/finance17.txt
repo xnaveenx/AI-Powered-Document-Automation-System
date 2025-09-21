@@ -1,0 +1,3 @@
+Payment Receipt: $150.00 for internet bill
+Customer ID: 7892
+Due Date: 27-Sep-2025

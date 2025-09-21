@@ -1,0 +1,5 @@
+Patient: David Phillips
+Date: 27-Sep-2025
+Prescribed Medications:
+- Amoxicillin 500mg, 3x daily for 10 days
+- Ibuprofen 200mg, 2x daily

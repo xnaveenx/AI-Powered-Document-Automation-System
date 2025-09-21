@@ -1,0 +1,4 @@
+Sarah Johnson
+DevOps Engineer
+Experience: CloudWorks, DevOps Engineer, Feb 2021 – Aug 2025
+Skills: Docker, Kubernetes, Jenkins, AWS

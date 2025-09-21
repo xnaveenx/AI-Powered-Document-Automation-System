@@ -1,0 +1,2 @@
+Prescription: Patient: Owen James
+Medications: Omeprazole 20mg, 1x daily

@@ -1,0 +1,4 @@
+Medical Report: CT Scan
+Patient: Scarlett Campbell
+Date: 26-Sep-2025
+Findings: No abnormalities detected

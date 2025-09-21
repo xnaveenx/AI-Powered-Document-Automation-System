@@ -1,0 +1,5 @@
+Patient: Jane Smith
+Date: 21-Sep-2025
+Prescribed Medications:
+- Paracetamol 500mg, 2x daily
+- Amoxicillin 250mg, 3x daily for 7 days

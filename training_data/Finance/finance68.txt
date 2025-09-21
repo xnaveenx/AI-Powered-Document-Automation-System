@@ -1,0 +1,4 @@
+Bank Statement - October 2025
+Account: 987654333
+Total Balance: $3,950.00
+Transactions: Deposit, Withdrawal

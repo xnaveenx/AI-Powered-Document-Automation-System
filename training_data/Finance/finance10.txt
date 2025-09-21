@@ -1,0 +1,4 @@
+Expense Report: Travel to London
+Amount: $1,200
+Submitted by: Jane Doe
+Date: 15-Sep-2025

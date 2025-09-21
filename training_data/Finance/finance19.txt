@@ -1,0 +1,4 @@
+Purchase Order #5680
+Items: Office Desks, Chairs
+Total Amount: $3,200
+Approved by Finance Dept.

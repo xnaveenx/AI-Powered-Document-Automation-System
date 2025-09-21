@@ -1,0 +1,5 @@
+Invoice Number: 12352
+Date: 28-Sep-2025
+Amount: $620.00
+Paid To: Stationery Hub
+Description: Pens and Notebooks

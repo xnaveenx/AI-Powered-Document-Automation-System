@@ -1,0 +1,5 @@
+Invoice Number: 12356
+Date: 02-Oct-2025
+Amount: $1,400.00
+Paid To: Delta Solutions
+Description: Network installation

@@ -1,0 +1,3 @@
+Discharge Summary: Patient: Michael Brown
+Condition: Fractured Arm
+Treatment: Cast applied, follow-up in 4 weeks

@@ -1,0 +1,5 @@
+Invoice Number: 12351
+Date: 27-Sep-2025
+Amount: $1,800.00
+Paid To: Alpha Tech
+Description: Computers purchase

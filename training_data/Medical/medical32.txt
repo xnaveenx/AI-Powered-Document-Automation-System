@@ -1,0 +1,4 @@
+Medical Report: Chest X-Ray
+Patient: Jackson Mitchell
+Date: 25-Sep-2025
+Findings: Mild bronchitis

@@ -1,0 +1,3 @@
+Discharge Summary: Patient: Ava Walker
+Condition: Appendicitis
+Treatment: Appendectomy performed, follow-up in 1 week

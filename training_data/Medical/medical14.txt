@@ -1,0 +1,3 @@
+Discharge Summary: Patient: James Anderson
+Condition: Pneumonia
+Treatment: Antibiotics administered, follow-up in 2 weeks

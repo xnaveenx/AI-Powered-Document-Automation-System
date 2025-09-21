@@ -1,0 +1,5 @@
+Invoice Number: 12355
+Date: 01-Oct-2025
+Amount: $950.00
+Paid To: Gamma Tech
+Description: Software subscription

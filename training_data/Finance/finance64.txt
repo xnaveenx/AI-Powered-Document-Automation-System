@@ -1,0 +1,4 @@
+Purchase Order #5689
+Items: Servers
+Total Amount: $5,500
+Approved by Finance Dept.

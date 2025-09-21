@@ -1,0 +1,5 @@
+Invoice Number: 12346
+Date: 22-Sep-2025
+Amount: $780.00
+Paid To: XYZ Supplies
+Description: Office chairs purchase

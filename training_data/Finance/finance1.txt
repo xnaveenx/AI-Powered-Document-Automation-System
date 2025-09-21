@@ -1,0 +1,5 @@
+Invoice Number: 12345
+Date: 21-Sep-2025
+Amount: $450.00
+Paid To: ABC Corporation
+Description: Payment for office supplies

@@ -4,7 +4,7 @@ import logging
 import hashlib
 import time
 import random
-from datetime import datetime
+from datetime import datetime, timezone
 import redis
 from sqlalchemy.orm import Session
 from backend.agents.extractor.extractor_utils import extract_any
@@ -72,7 +72,7 @@ def process_document(file_path: str, uploaded_by: int = None, source: str = "unk
 
     metadata = {
         "word_count": len(extracted_text.split()),
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": datetime.now(timezone.utc).isoformat(),
         "source": source,
     }
 

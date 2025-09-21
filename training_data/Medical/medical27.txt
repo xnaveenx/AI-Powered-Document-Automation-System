@@ -1,0 +1,4 @@
+Medical Report: Ultrasound
+Patient: Amelia Green
+Date: 24-Sep-2025
+Findings: Gallstones detected

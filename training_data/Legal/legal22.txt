@@ -1,0 +1,1 @@
+Service Level Agreement: WebHost Corp guarantees 99.9% uptime for hosting services provided to XYZ Corp.

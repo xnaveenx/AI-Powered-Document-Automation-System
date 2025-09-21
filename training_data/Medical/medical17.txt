@@ -1,0 +1,4 @@
+Medical Report: MRI Scan
+Patient: Sophia Clark
+Date: 22-Sep-2025
+Findings: Mild disc herniation at L4-L5

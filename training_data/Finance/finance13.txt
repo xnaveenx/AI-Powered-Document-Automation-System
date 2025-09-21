@@ -1,0 +1,4 @@
+Bank Statement - September 2025
+Account: 987654322
+Total Balance: $5,120.00
+Transactions: Deposit, Withdrawal

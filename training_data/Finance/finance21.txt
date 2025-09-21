@@ -1,0 +1,5 @@
+Invoice Number: 12348
+Date: 24-Sep-2025
+Amount: $540.00
+Paid To: OfficeMart
+Description: Stationery supplies

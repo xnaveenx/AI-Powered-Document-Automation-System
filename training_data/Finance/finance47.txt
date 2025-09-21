@@ -1,0 +1,3 @@
+Payment Receipt: $135.00 for water bill
+Customer ID: 7898
+Due Date: 03-Oct-2025

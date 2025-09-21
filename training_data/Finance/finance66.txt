@@ -1,0 +1,5 @@
+Invoice Number: 12357
+Date: 03-Oct-2025
+Amount: $670.00
+Paid To: OfficeMart Ltd.
+Description: Office supplies

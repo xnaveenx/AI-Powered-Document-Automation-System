@@ -1,0 +1,4 @@
+Zoe Morris
+Frontend Developer
+Experience: UIExperts, Frontend Developer, Feb 2020 – Aug 2025
+Skills: React, CSS, HTML, Redux

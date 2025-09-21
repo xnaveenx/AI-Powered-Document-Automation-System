@@ -1,0 +1,4 @@
+Purchase Order #5679
+Items: Printer, Ink Cartridges
+Total Amount: $650
+Approved by Finance Dept.

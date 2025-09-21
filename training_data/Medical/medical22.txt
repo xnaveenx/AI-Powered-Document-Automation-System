@@ -1,0 +1,4 @@
+Medical Report: ECG
+Patient: Ethan Young
+Date: 23-Sep-2025
+Findings: Normal sinus rhythm

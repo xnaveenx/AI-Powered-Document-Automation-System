@@ -1,0 +1,4 @@
+Lily Collins
+Data Engineer
+Experience: DataWorks, Data Engineer, Mar 2020 – Aug 2025
+Skills: Spark, Python, SQL

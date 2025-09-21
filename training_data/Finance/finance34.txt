@@ -1,0 +1,4 @@
+Purchase Order #5683
+Items: Office Software
+Total Amount: $950
+Approved by Finance Dept.

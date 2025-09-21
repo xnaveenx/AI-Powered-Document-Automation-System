@@ -16,6 +16,8 @@ class Settings:
     KAFKA_BOOTSTRAP_SERVERS = os.getenv("KAFKA_BOOTSTRAP_SERVERS")
     KAFKA_TOPIC_INGESTOR = os.getenv("KAFKA_TOPIC_INGESTOR", "ingestor_topic")
     KAFKA_TOPIC_EXTRACTOR = os.getenv("KAFKA_TOPIC_EXTRACTOR", "extractor_topic")
+    KAFKA_TOPIC_CLASSIFIED = os.getenv("KAFKA_TOPIC_CLASSIFIED", "classified")
+
 
     REDIS_HOST = os.getenv("REDIS_HOST")
     REDIS_PORT = int(os.getenv("REDIS_PORT", "6379"))
@@ -31,4 +33,6 @@ class Settings:
 
     TESSERACT_PATH=os.getenv("TESSERACT_PATH", "tesseract")
     TESSERACT_LANG = os.getenv("TESSERACT_LANG", "eng")
+
+    GEMINI_API_KEY:str=os.getenv("GEMINI_API_KEY")
 setting=Settings()

@@ -1,0 +1,4 @@
+Caleb Cooper
+Backend Developer
+Experience: SoftSolutions, Backend Developer, Feb 2019 – Aug 2025
+Skills: Java, Spring Boot, MySQL

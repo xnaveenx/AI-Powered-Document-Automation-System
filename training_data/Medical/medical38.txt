@@ -1,0 +1,2 @@
+Prescription: Patient: Joseph Parker
+Medications: Pantoprazole 40mg, 1x daily

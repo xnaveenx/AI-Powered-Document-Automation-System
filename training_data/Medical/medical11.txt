@@ -1,0 +1,5 @@
+Patient: Sarah Johnson
+Date: 22-Sep-2025
+Prescribed Medications:
+- Amoxicillin 500mg, 3x daily for 10 days
+- Vitamin D 1000 IU, 1x daily

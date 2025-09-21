@@ -1,0 +1,4 @@
+Purchase Order #5687
+Items: Printers
+Total Amount: $1,100
+Approved by Finance Dept.

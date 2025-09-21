@@ -1,0 +1,3 @@
+Prescription: Patient: Zoe Morris
+Medications: Metformin 500mg, 2x daily
+Instructions: Take with meals

@@ -1,0 +1,4 @@
+Owen James
+Full Stack Developer
+Experience: CodeCraft, Full Stack Developer, Feb 2020 – Aug 2025
+Skills: Node.js, React, MongoDB

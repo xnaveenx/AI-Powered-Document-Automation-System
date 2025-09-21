@@ -1,0 +1,4 @@
+Patient: Evelyn Carter
+Date: 26-Sep-2025
+Prescribed Medications:
+- Prednisone 10mg, tapering dose for 7 days

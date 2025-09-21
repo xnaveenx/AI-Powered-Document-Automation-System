@@ -1,0 +1,4 @@
+Nathan Bailey
+DevOps Engineer
+Experience: CloudWorks, DevOps Engineer, Mar 2021 – Aug 2025
+Skills: Kubernetes, Jenkins, Docker

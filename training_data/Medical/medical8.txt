@@ -1,0 +1,2 @@
+Prescription: Patient: Emily Davis
+Medications: Ibuprofen 200mg, 1x daily for 5 days

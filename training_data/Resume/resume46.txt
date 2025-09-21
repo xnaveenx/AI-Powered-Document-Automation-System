@@ -1,0 +1,4 @@
+Joshua Cook
+Cloud Engineer
+Experience: CloudPro, Cloud Engineer, Feb 2021 – Aug 2025
+Skills: AWS, Docker, Terraform

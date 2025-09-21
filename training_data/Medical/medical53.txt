@@ -1,0 +1,2 @@
+Prescription: Patient: Sofia Richardson
+Medications: Atorvastatin 20mg, 1x daily

@@ -1,0 +1,3 @@
+Discharge Summary: Patient: Victoria Evans
+Condition: Gastroenteritis
+Treatment: Hydration therapy, follow-up if symptoms persist

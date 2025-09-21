@@ -1,0 +1,4 @@
+Expense Report: Client Meeting in Paris
+Amount: $980
+Submitted by: John Smith
+Date: 18-Sep-2025

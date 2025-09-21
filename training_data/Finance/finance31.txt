@@ -1,0 +1,5 @@
+Invoice Number: 12350
+Date: 26-Sep-2025
+Amount: $300.00
+Paid To: PaperWorks Ltd.
+Description: Printing costs

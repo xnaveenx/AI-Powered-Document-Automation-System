@@ -1,0 +1,3 @@
+Payment Receipt: $90.25 for gas bill
+Customer ID: 7893
+Due Date: 28-Sep-2025

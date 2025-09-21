@@ -1,0 +1,4 @@
+James Anderson
+Data Scientist
+Experience: DataPro, Data Scientist, Jun 2020 – Aug 2025
+Skills: Python, Pandas, scikit-learn, SQL

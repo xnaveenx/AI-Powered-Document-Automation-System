@@ -1,0 +1,4 @@
+Medical Report: ECG
+Patient: Grace Morgan
+Date: 28-Sep-2025
+Findings: Normal

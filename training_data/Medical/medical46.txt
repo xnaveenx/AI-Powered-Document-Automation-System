@@ -1,0 +1,5 @@
+Patient: Joshua Cook
+Date: 29-Sep-2025
+Prescribed Medications:
+- Lisinopril 10mg, 1x daily
+- Hydrochlorothiazide 25mg, 1x daily

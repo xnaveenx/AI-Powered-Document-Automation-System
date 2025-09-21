@@ -1,0 +1,4 @@
+Patient: Chloe Rivera
+Date: 30-Sep-2025
+Prescribed Medications:
+- Ibuprofen 200mg, 1x daily for 5 days
